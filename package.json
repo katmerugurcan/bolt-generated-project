@@ -1,0 +1,17 @@
+{
+      "name": "react-native-tailwind-app",
+      "version": "1.0.0",
+      "private": true,
+      "scripts": {
+        "start": "react-native start",
+        "android": "react-native run-android",
+        "ios": "react-native run-ios"
+      },
+      "dependencies": {
+        "react": "17.0.2",
+        "react-native": "0.64.2",
+        "tailwindcss": "^2.2.19",
+        "postcss": "^8.4.5",
+        "autoprefixer": "^10.4.2"
+      }
+    }
